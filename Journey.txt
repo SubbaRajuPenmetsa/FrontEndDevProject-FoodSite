@@ -31,4 +31,8 @@ Day6:
 Completed the Week4 assignment and lab excersice. 🎇 Its wrap for 1st course Introduction to Frontend Webdevlopment.
 Now, There was big challenge before me😶. The 2nd Couse was JavaScript. The 5 week course with 45 hours of content.
 My goal for this is to complete within 8-10 days.
+Learned about Basics of the Javascripts which includes coomments, data types, conditional statements, Loops
+Day7:
+Started with Week2 course, Learned about Arrays, Objects and Functions. Also learned about Error handling.
+And then it's been completed. Started with Week3.. Excited for more learning.
 
